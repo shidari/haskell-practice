@@ -1,0 +1,1 @@
+words . map lower = map (map lower)  words 
